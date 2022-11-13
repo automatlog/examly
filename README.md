@@ -5,7 +5,7 @@
 | ----------- | ----------- |
 | Nida Khan  | Ui/Ux Designer |
 | Aman Yadav | Frontend     |
-| Somya Das | Frontend | Graphic Designer    |
+| Somya Das | Frontend, Graphic Designer    |
 | Tanya Padey | Python Developer  |
 
 
