@@ -1,0 +1,18 @@
+th, td {
+    padding-top: 10px;
+    padding-bottom: 20px;
+    padding-left: 30px;
+    padding-right: 40px;
+  }
+
+  .button {
+    transition-duration: 0.4s;
+  }
+  
+  .button:hover {
+    background-color: #730ED7; /* Green */
+    color: white;
+  }
+ .table{
+    color:"#730ED7";
+ }
